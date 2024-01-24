@@ -18,8 +18,8 @@ Finally, you will be able to run:
 ```js
 node server.js
 ```js
----
-Tech Stack
+
+##Tech Stack
 
 - Node
 - Expresss
