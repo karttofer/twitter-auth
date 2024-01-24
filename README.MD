@@ -1,4 +1,4 @@
-## Twitter Auth -
+## Twitter Auth
 
 Hi, this is a simple Twitter authentication login; there isn't more than that. Additionally, there are some routes that you can use, but I think you will need to input your own credentials.
 
