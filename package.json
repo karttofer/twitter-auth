@@ -1,0 +1,20 @@
+{
+  "name": "auth-app",
+  "version": "1.0.0",
+  "description": "Simple Twitter Auth",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Jhornan Colina (karttofer)",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.0",
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "mongoose": "^8.1.0",
+    "passport": "^0.7.0",
+    "passport-twitter": "^1.0.4"
+  }
+}
