@@ -19,7 +19,9 @@ Finally, you will be able to run:
 node server.js
 ```js
 
-##Tech Stack
+## Tech Stack
+
+Simple tech stack to create this simple nodejs app
 
 - Node
 - Expresss
